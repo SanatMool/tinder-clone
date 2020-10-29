@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
-import Header from "./Header";
-import TinderCards from "./TinderCards";
-import SwipeButtons from "./SwipeButtons";
+import Header from "./Header/Header";
+import TinderCards from "./TinderCards/TinderCards";
+import SwipeButtons from "./SwipeButtons/SwipeButtons";
 
 function App() {
   return (
